@@ -1,0 +1,25 @@
+body
+{
+    background-color: #d0d0d0;
+    margin: 0px;
+    padding: 0px;
+    table-layout: auto;
+}
+table
+{
+color:black;
+}
+ h3{
+    text-decoration: black;
+ }
+
+ a:link {
+    color: blue;
+  }
+  
+  a:visited {
+    color: red;
+  }
+ #rodape{
+    align-items: center;
+ }

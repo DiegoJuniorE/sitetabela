@@ -1,0 +1,16 @@
+<!DOCTYPE >
+<html>
+<head>
+<title> SITE TABELA </title>
+</head>
+<body>
+<table border="1" width="100%">
+<tr><td colspan="4"> <img scr="img/obra.jpg"><h1> Engenharia civil  </h1></td></tr>    
+<tr><td>Home</td><td>Serviços</td><td>Sobre</td><td>Contato</td></tr>
+<tr><td colspan="3" rowspan="3">corpo</td><td>publicidade</td></tr>
+<tr><td> publicidade </td></tr>
+<tr><td> publicidade </td></tr>
+<tr><td colspan="4">Rodapé</td></tr>
+</table>    
+</body>
+</html>
